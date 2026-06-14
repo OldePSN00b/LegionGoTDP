@@ -1,0 +1,1 @@
+This is a proof of concept PowerShell Module to control the Thermal Mode of the 1st Generation Lenovo Legion Go. This was generated through ChatGPT, utilizing trial and error and is a far cry slicker than having to hit hardware buttons and using the left control stick to navigate the Legion Space flyout menu.
